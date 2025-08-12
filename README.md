@@ -16,6 +16,9 @@ Tableau
 1. README.md
 2. International-Food-Security.twb
 
+# Preview Dashboard
+<img width="2998" height="1598" alt="Dashboard" src="https://github.com/user-attachments/assets/22ee8b8a-60fa-4506-af65-e7ce64a2971c" />
+
 # Interactive Dashboard
 You can view interactive dashboard here.
 ## [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/GlobalGrainDemand/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
